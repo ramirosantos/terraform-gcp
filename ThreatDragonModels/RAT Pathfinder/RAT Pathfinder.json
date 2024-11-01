@@ -1,0 +1,16 @@
+{
+  "version": "v2.3.0-RC1",
+  "summary": {
+    "title": "RAT Pathfinder",
+    "owner": "Ramiro",
+    "description": "Test draw as a first shot",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Sebastian",
+    "threatTop": 0
+  }
+}
